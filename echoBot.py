@@ -10,7 +10,7 @@ import telebot
 from bs4 import BeautifulSoup
 from telebot import types
 
-API_TOKEN = '833271152:AAHl4v2jEh6R8qKTvUzKH2q8RrgRwMdJPbA'
+API_TOKEN = '123'
 
 bot = telebot.TeleBot(API_TOKEN)
 chats = arr.array('I', [447680872])
