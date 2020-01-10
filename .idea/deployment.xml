@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="Copy of project-level server 'TW_VDS'" showDialogOnRemoteDnD="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="TW_VDS" showDialogOnRemoteDnD="false">
     <serverData>
-      <paths name="Copy of project-level server 'TW_VDS'">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="TW_VDS">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/pycharm_project_389" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
